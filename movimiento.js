@@ -111,6 +111,7 @@ function goommba() {
     var gomba = [
         
     ]
+    //jijijija
     for (i=0;i<999;i++){
         gomba.push({ x: 600+(random(0, 0.001)*i), y: height * 0.65 })
         goomba = createSprite(gomba[i].x, gomba[i].y)
